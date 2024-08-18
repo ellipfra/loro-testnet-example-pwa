@@ -10,7 +10,7 @@ on:
 env:
   CERC_REGISTRY_USER_KEY: ${{ secrets.CICD_LACONIC_USER_KEY }}
   CERC_REGISTRY_BOND_ID: ${{ secrets.CICD_LACONIC_BOND_ID }}
-  CERC_REGISTRY_APP_CRN: "ellipfra"
+  CERC_REGISTRY_APP_CRN: ellipfra
 
 jobs:
   cns_publish:
