@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "@ellipfra/pwa-test-4545",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "repository": "https://github.com/ellipfra/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
